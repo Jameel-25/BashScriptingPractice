@@ -17,7 +17,7 @@ function mul {
 }
 
 function div {
-        let divv=num1-num2
+        let divv=num1/num2
         echo "Division of two numbers is: $divv"
 }
 
